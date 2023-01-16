@@ -3,8 +3,7 @@
 In this project, we will review important Python concepts:
 
 - Import
-- Exceptions
-- Class, Private attribute
+- Exceptions- Class, Private attribute
 - Getter/Setter
 - Class method
 - Static method
@@ -41,5 +40,5 @@ In this project, we will review important Python concepts:
 
 ## Author
 
-Gabriel Montaño - [@exploitpnk](https://www.twitter.com/exploitpnk)
+ADEYEMO BARNABAS
 
